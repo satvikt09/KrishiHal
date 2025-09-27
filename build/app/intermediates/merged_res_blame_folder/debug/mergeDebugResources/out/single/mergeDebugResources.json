@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.sih25.app-debug-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.sih25.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sih25.app-debug-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.sih25.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sih25.app-debug-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sih25.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sih25.app-debug-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.sih25.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-debug-27:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\satvi\\.gradle\\daemon\\8.10.2\\com.example.sih25.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.sih25.app-debug-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.sih25.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    }
+]
